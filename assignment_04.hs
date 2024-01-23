@@ -1,7 +1,3 @@
--- Xiaorui Liu
--- 101099674
-
-
 import Debug.Trace 
 
 divisor :: Integer -> [Integer]
