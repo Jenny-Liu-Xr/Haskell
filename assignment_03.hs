@@ -1,6 +1,3 @@
--- Xiaorui Liu
--- 101099674
-
 -- Test:
 -- 1. a=4.0 b=8.0 c=5.0: Discriminant is negative, so the equation has no real root []
 -- 2. a=3.0 b=-6.0 c=3.0: Discriminant is 0, so the equation has a real root [1.0]
