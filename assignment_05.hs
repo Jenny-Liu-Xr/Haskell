@@ -1,7 +1,3 @@
--- Xiaorui Liu
--- 101099674
-
-
 -- Remove any and all occurrences of the letters H or W that occur after the first character
 remove_hw :: String -> String
 remove_hw []       = []
