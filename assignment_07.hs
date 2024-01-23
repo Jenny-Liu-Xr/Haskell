@@ -1,6 +1,3 @@
--- Xiaorui Liu
--- 101099674
-
 import Data.Maybe
 
 -- first recursive long division function use error
